@@ -1,0 +1,52 @@
+{
+  "metrousers": [
+    {
+      "id": 1,
+      "firstname": "Cris",
+      "middlename": "Tabuno",
+      "lastname": "Co",
+      "age": 23,
+      "email": "kirisko@gmail.com",
+      "password": "12345",
+      "priviledge": "Admin"
+    },
+    {
+      "id": 2,
+      "firstname": "Mary grace",
+      "middlename": "Miones",
+      "lastname": "Celestial",
+      "age": 23,
+      "email": "celestialmary@gmail.com",
+      "password": "12345",
+      "priviledge": "Organizer"
+    },
+    {
+      "firstname": "Jon Anthony",
+      "middlename": "Tabura",
+      "lastname": "Genobaten",
+      "age": 22,
+      "email": "Genjon@gmail.com",
+      "password": "12345",
+      "priviledge": "Regular",
+      "id": 3
+    }
+  ],
+  "userOrganizer": [
+      {
+          "id":  2,
+          "eventsCreated": 1         
+      }
+  ],
+  "organizerEvents":[
+      {
+          "eventid": 1,
+          "id": 2,
+          "eventDate": "2021-09-08T19:01:55.714942+03:00",
+          "eventName": "Cosplay Event",
+          "eventDesc": "Wear your favorite anime character",
+          "participants": 0,
+          "upvotes": 0,
+          "reviews": 0
+      }
+  ]
+}
